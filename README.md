@@ -16,7 +16,7 @@ Portfolio - Guilherme Orcezi
 
 - ⚛️ **React Js** — Javascript lib to create de interfaces.
 - 🟣 **Gatsby** — Framework based on React that helps developers build blazing fast websites and apps
-- 🔯 **Graphql** — A query language created by Facebook
+- 🔯 **GraphQL** — A query language created by Facebook
 
 ## License
 
